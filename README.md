@@ -1,6 +1,6 @@
 # Olá, eu sou o Ryan! 👋
 
-Sou estudante de **Ciências da Computação** em busca de aprendizado constante no mundo da tecnologia. Atualmente, estou desenvolvendo minhas habilidades em **HTML**, **Java** e tenho conhecimentos básicos em **SQL** e frameworks.
+Sou estudante de Ciências da Computação, apaixonado por tecnologia e aprendizado constante. Estou no início da minha jornada acadêmica, mas motivado a explorar novas oportunidades e desenvolver minhas habilidades em programação, desenvolvimento de software e soluções tecnológicas.
 
 ---
 
